@@ -1,0 +1,3205 @@
+PACKAGE NAME: alsa-conf
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-lib
+LICENSE: LGPLv2.1 GPLv2+
+
+PACKAGE NAME: alsa-conf-base
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-lib
+LICENSE: LGPLv2.1 GPLv2+
+
+PACKAGE NAME: alsa-lib
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-lib
+LICENSE: LGPLv2.1 GPLv2+
+
+PACKAGE NAME: alsa-server
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-lib
+LICENSE: LGPLv2.1 GPLv2+
+
+PACKAGE NAME: alsa-state
+PACKAGE VERSION: 0.2.0
+RECIPE NAME: alsa-state
+LICENSE: MIT
+
+PACKAGE NAME: alsa-states
+PACKAGE VERSION: 0.2.0
+RECIPE NAME: alsa-state
+LICENSE: MIT
+
+PACKAGE NAME: alsa-utils
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-aconnect
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-alsaconf
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-alsactl
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-alsaloop
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-alsamixer
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-alsaucm
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-amixer
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-aplay
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-aseqdump
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-aseqnet
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-iecset
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-midi
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: alsa-utils-speakertest
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: am-sysinfo
+PACKAGE VERSION: git
+RECIPE NAME: am-sysinfo
+LICENSE: BSD
+
+PACKAGE NAME: amsdk-av-files
+PACKAGE VERSION: 1.1
+RECIPE NAME: amsdk-av-files
+LICENSE: CC-BY-NC-ND-3.0
+
+PACKAGE NAME: arago-gpl-notice
+PACKAGE VERSION: 1.0
+RECIPE NAME: arago-gpl-notice
+LICENSE: MIT
+
+PACKAGE NAME: arm-benchmarks
+PACKAGE VERSION: 1.3
+RECIPE NAME: arm-benchmarks
+LICENSE: BSD
+
+PACKAGE NAME: av-examples
+PACKAGE VERSION: 1.0
+RECIPE NAME: av-examples
+LICENSE: BSD
+
+PACKAGE NAME: base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: base-passwd
+PACKAGE VERSION: 3.5.26
+RECIPE NAME: base-passwd
+LICENSE: GPLv2+
+
+PACKAGE NAME: bash
+PACKAGE VERSION: 3.2.48
+RECIPE NAME: bash
+LICENSE: GPLv2+
+
+PACKAGE NAME: battleship
+PACKAGE VERSION: git
+RECIPE NAME: battleship
+LICENSE: GPLv2
+
+PACKAGE NAME: bc
+PACKAGE VERSION: 1.06
+RECIPE NAME: bc
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: binutils
+PACKAGE VERSION: 2.20.1
+RECIPE NAME: binutils
+LICENSE: GPLv3
+
+PACKAGE NAME: binutils-symlinks
+PACKAGE VERSION: 2.20.1
+RECIPE NAME: binutils
+LICENSE: GPLv3
+
+PACKAGE NAME: bluetooth-gui
+PACKAGE VERSION: 1.0
+RECIPE NAME: bluetooth-gui
+LICENSE: BSD
+
+PACKAGE NAME: bluez-hcidump
+PACKAGE VERSION: 2.2
+RECIPE NAME: bluez-hcidump
+LICENSE: GPLv2
+
+PACKAGE NAME: bluez-tools
+PACKAGE VERSION: git
+RECIPE NAME: bluez-tools
+LICENSE: GPLv2
+
+PACKAGE NAME: bluez4
+PACKAGE VERSION: 4.98
+RECIPE NAME: bluez4
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: bluez4-agent
+PACKAGE VERSION: 4.98
+RECIPE NAME: bluez4
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: bonnie++
+PACKAGE VERSION: 1.03c
+RECIPE NAME: bonnie++
+LICENSE: GPLv2
+
+PACKAGE NAME: bt-enable
+PACKAGE VERSION: 1.0
+RECIPE NAME: bt-enable
+LICENSE: BSD
+
+PACKAGE NAME: bt-firmware
+PACKAGE VERSION: git
+RECIPE NAME: bt-firmware
+LICENSE:
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.20.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 bzip2
+
+PACKAGE NAME: busybox-hwclock
+PACKAGE VERSION: 1.20.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 bzip2
+
+PACKAGE NAME: busybox-syslog
+PACKAGE VERSION: 1.20.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 bzip2
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.20.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 bzip2
+
+PACKAGE NAME: canutils
+PACKAGE VERSION: 4.0.6+gitr1+bab595e38295dcafcfc17a011d3d51f2df1618e6
+RECIPE NAME: canutils
+LICENSE: GPLv2
+
+PACKAGE NAME: crda
+PACKAGE VERSION: 1.1.1
+RECIPE NAME: crda
+LICENSE: ISC
+
+PACKAGE NAME: curl
+PACKAGE VERSION: 7.26.0
+RECIPE NAME: curl
+LICENSE: MIT
+
+PACKAGE NAME: dbus-1
+PACKAGE VERSION: 1.6.4
+RECIPE NAME: dbus
+LICENSE: GPLv2+
+
+PACKAGE NAME: debianutils
+PACKAGE VERSION: 2.30
+RECIPE NAME: debianutils
+LICENSE: GPLv2 BSD
+
+PACKAGE NAME: devmem2
+PACKAGE VERSION: 1.0
+RECIPE NAME: devmem2
+LICENSE: GPLv2+
+
+PACKAGE NAME: dosfstools
+PACKAGE VERSION: 2.11
+RECIPE NAME: dosfstools
+LICENSE: GPLv2
+
+PACKAGE NAME: dropbear
+PACKAGE VERSION: 2012.55
+RECIPE NAME: dropbear
+LICENSE: MIT
+
+PACKAGE NAME: dt
+PACKAGE VERSION: 17.07
+RECIPE NAME: dt
+LICENSE: MIT
+
+PACKAGE NAME: e2fsprogs
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 LGPLv2 BSD MIT
+
+PACKAGE NAME: e2fsprogs-badblocks
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-e2fsck
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-mke2fs
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-tune2fs
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: ethtool
+PACKAGE VERSION: 3.5
+RECIPE NAME: ethtool
+LICENSE: GPLv2+
+
+PACKAGE NAME: eventdump
+PACKAGE VERSION: git
+RECIPE NAME: eventdump
+LICENSE: BSD
+
+PACKAGE NAME: evtest
+PACKAGE VERSION: 1.25
+RECIPE NAME: evtest
+LICENSE: GPLv2
+
+PACKAGE NAME: fbset
+PACKAGE VERSION: 2.1
+RECIPE NAME: fbset
+LICENSE: GPLv2
+
+PACKAGE NAME: fbset-modes
+PACKAGE VERSION: 0.1.0
+RECIPE NAME: fbset-modes
+LICENSE: MIT
+
+PACKAGE NAME: gdbserver
+PACKAGE VERSION: 7.5
+RECIPE NAME: gdb
+LICENSE: GPLv2 GPLv3 LGPLv2 LGPLv3
+
+PACKAGE NAME: gst-ffmpeg
+PACKAGE VERSION: 0.10.13
+RECIPE NAME: gst-ffmpeg
+LICENSE: GPLv2+ LGPLv2+ GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-adpcmdec
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-adpcmenc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-aiff
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-apps
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-asfmux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-audiovisualizers
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-autoconvert
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-bayer
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-bz2
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-camerabin
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-camerabin2
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-cdxaparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-cog
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-coloreffects
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-colorspace
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-curl
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dataurisrc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dccp
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-debugutilsbad
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-decklink
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dtmf
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dvb
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dvbsuboverlay
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-dvdspu
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-faad
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-faceoverlay
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-fbdevsink
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-festival
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-fieldanalysis
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-fragmented
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-freeverb
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-freeze
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-frei0r
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-gaudieffects
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-geometrictransform
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-glib
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-gsettingselements
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-h264parse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-hdvparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-id3tag
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-inter
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-interlace
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-ivfparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-jp2kdecimator
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-jpegformat
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-legacyresample
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-linsys
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-liveadder
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-meta
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mpegdemux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mpegpsmux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mpegtsdemux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mpegtsmux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mpegvideoparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mve
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-mxf
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-neonhttpsrc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-nsf
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-nuvdemux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-patchdetect
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-pcapparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-pnm
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-rawparse
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-removesilence
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-rfbsrc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-rtpmux
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-rtpvp8
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-scaletempoplugin
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-sdi
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-sdpelem
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-segmentclip
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-shm
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-siren
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-smooth
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-sndfile
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-speed
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-stereo
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-subenc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-tta
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-vcdsrc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-videofiltersbad
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-videomaxrate
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-videomeasure
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-videoparsersbad
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-videosignal
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-vmnc
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-bad-y4mdec
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-base
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-adder
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-alsa
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-app
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-apps
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-audioconvert
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-audiorate
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-audioresample
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-audiotestsrc
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-decodebin
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-decodebin2
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-encodebin
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-ffmpegcolorspace
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-gdp
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-gio
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-glib
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-ivorbisdec
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-meta
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-ogg
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-playbin
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-subparse
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-tcp
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-theora
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-typefindfunctions
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-videorate
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-videoscale
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-videotestsrc
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-volume
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-base-vorbis
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: gst-plugins-good
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-alaw
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-alpha
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-alphacolor
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-annodex
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-apetag
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-apps
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-audiofx
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-audioparsers
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-auparse
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-autodetect
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-avi
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-cairo
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-cutter
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-debug
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-deinterlace
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-efence
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-effectv
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-equalizer
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-flac
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-flv
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-flxdec
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-glib
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-goom
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-goom2k1
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-icydemux
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-id3demux
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-imagefreeze
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-interleave
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-isomp4
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-jpeg
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-level
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-matroska
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-meta
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-mulaw
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-multifile
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-multipart
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-navigationtest
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-oss4audio
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-ossaudio
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-png
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-pulse
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-replaygain
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-rtp
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-rtpmanager
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-rtsp
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-shapewipe
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-smpte
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-souphttpsrc
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-spectrum
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-speex
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-udp
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-video4linux2
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-videobox
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-videocrop
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-videofilter
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-videomixer
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-wavenc
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-wavparse
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gst-plugins-good-y4menc
+PACKAGE VERSION: 0.10.31
+RECIPE NAME: gst-plugins-good
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: gstreamer
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gstreamer
+LICENSE: LGPLv2+
+
+PACKAGE NAME: hdparm
+PACKAGE VERSION: 9.39
+RECIPE NAME: hdparm
+LICENSE: BSD
+
+PACKAGE NAME: hostap-daemon
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: hostap-daemon
+LICENSE: GPLv2
+
+PACKAGE NAME: htop
+PACKAGE VERSION: 0.9
+RECIPE NAME: htop
+LICENSE: GPLv2
+
+PACKAGE NAME: i2c-tools
+PACKAGE VERSION: 3.0.3
+RECIPE NAME: i2c-tools
+LICENSE: GPLv2
+
+PACKAGE NAME: initscript-telnetd
+PACKAGE VERSION: 1.0
+RECIPE NAME: initscript-telnetd
+LICENSE: MIT
+
+PACKAGE NAME: initscripts
+PACKAGE VERSION: 1.0
+RECIPE NAME: initscripts
+LICENSE: GPLv2
+
+PACKAGE NAME: iozone3
+PACKAGE VERSION: 263
+RECIPE NAME: iozone3
+LICENSE:
+
+PACKAGE NAME: iperf
+PACKAGE VERSION: 2.0.5
+RECIPE NAME: iperf
+LICENSE:
+
+PACKAGE NAME: iproute2
+PACKAGE VERSION: 3.5.1
+RECIPE NAME: iproute2
+LICENSE: GPLv2+
+
+PACKAGE NAME: iptables
+PACKAGE VERSION: 1.4.15
+RECIPE NAME: iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: iw
+PACKAGE VERSION: 3.6
+RECIPE NAME: iw
+LICENSE: BSD
+
+PACKAGE NAME: jpeg-tools
+PACKAGE VERSION: 8d+1.2.1
+RECIPE NAME: libjpeg-turbo
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: kernel
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-2.6.37
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-image-2.6.37
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cryptodev
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-generic-bl
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-main
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-scsi-wait-scan
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-modules
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-vmlinux
+PACKAGE VERSION: 2.6.37
+RECIPE NAME: linux-omap-psp
+LICENSE: GPLv2
+
+PACKAGE NAME: kmod
+PACKAGE VERSION: 9
+RECIPE NAME: kmod
+LICENSE: GPL-2.0+ LGPL-2.1+
+
+PACKAGE NAME: libasound-module-bluez
+PACKAGE VERSION: 4.98
+RECIPE NAME: bluez4
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libasound2
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: alsa-lib
+LICENSE: LGPLv2.1 GPLv2+
+
+PACKAGE NAME: libattr1
+PACKAGE VERSION: 2.4.46
+RECIPE NAME: attr
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libav
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libavcodec53
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libavdevice53
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libavfilter2
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libavformat53
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libavutil51
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libblkid1
+PACKAGE VERSION: 2.21.2
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ LGPLv2.1+ BSD
+
+PACKAGE NAME: libbz2-0
+PACKAGE VERSION: 1.0.6
+RECIPE NAME: bzip2
+LICENSE: bzip2
+
+PACKAGE NAME: libc6
+PACKAGE VERSION: 2013.03
+RECIPE NAME: external-linaro-toolchain
+LICENSE: MIT
+
+PACKAGE NAME: libcairo-gobject2
+PACKAGE VERSION: 1.12.2
+RECIPE NAME: cairo
+LICENSE: MPL-1 LGPLv2.1
+
+PACKAGE NAME: libcairo2
+PACKAGE VERSION: 1.12.2
+RECIPE NAME: cairo
+LICENSE: MPL-1 LGPLv2.1
+
+PACKAGE NAME: libcap2
+PACKAGE VERSION: 2.22
+RECIPE NAME: libcap
+LICENSE: BSD GPLv2
+
+PACKAGE NAME: libcom-err2
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 LGPLv2 BSD MIT
+
+PACKAGE NAME: libcrypto1.0.0
+PACKAGE VERSION: 1.0.0j
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libcurl5
+PACKAGE VERSION: 7.26.0
+RECIPE NAME: curl
+LICENSE: MIT
+
+PACKAGE NAME: libdbus-1-3
+PACKAGE VERSION: 1.6.4
+RECIPE NAME: dbus
+LICENSE: GPLv2+
+
+PACKAGE NAME: libdbus-glib-1-2
+PACKAGE VERSION: 0.100
+RECIPE NAME: dbus-glib
+LICENSE: AFL-2 GPLv2+
+
+PACKAGE NAME: libe2p2
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 LGPLv2 BSD MIT
+
+PACKAGE NAME: libexpat1
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: expat
+LICENSE: MIT
+
+PACKAGE NAME: libext2fs2
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 LGPLv2 BSD MIT
+
+PACKAGE NAME: libfaad2
+PACKAGE VERSION: 2.7
+RECIPE NAME: faad2
+LICENSE: GPLv2
+
+PACKAGE NAME: libffi6
+PACKAGE VERSION: 3.0.11
+RECIPE NAME: libffi
+LICENSE: MIT
+
+PACKAGE NAME: libflac8
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: flac
+LICENSE: GFDL-1.2 GPLv2+ LGPLv2.1+ BSD
+
+PACKAGE NAME: libfontconfig1
+PACKAGE VERSION: 2.9.0
+RECIPE NAME: fontconfig
+LICENSE: MIT-style MIT PD
+
+PACKAGE NAME: libformw5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libfreetype6
+PACKAGE VERSION: 2.4.10
+RECIPE NAME: freetype
+LICENSE: GPLv2+
+
+PACKAGE NAME: libgcc-s1
+PACKAGE VERSION: 2013.03
+RECIPE NAME: external-linaro-toolchain
+LICENSE: MIT
+
+PACKAGE NAME: libgcrypt11
+PACKAGE VERSION: 1.5.0
+RECIPE NAME: libgcrypt
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgles-omap3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-blitwsegl
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-blitwsegl-es3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-blitwsegl-es5
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-blitwsegl-es6
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-blitwsegl-es8
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-es3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-es5
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-es6
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-es8
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-flipwsegl
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-flipwsegl-es3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-flipwsegl-es5
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-flipwsegl-es6
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-flipwsegl-es8
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-frontwsegl
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-frontwsegl-es3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-frontwsegl-es5
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-frontwsegl-es6
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-frontwsegl-es8
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-linuxfbwsegl
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-linuxfbwsegl-es3
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-linuxfbwsegl-es5
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-linuxfbwsegl-es6
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-linuxfbwsegl-es8
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libgles-omap3-rawdemos
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: libgles-omap3
+LICENSE:
+
+PACKAGE NAME: libglib-2.0-0
+PACKAGE VERSION: 2.32.4
+RECIPE NAME: glib-2.0
+LICENSE: LGPLv2+ BSD PD
+
+PACKAGE NAME: libgnome-keyring0
+PACKAGE VERSION: 2.32.0
+RECIPE NAME: libgnome-keyring
+LICENSE: LGPLv2 LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgnutls26
+PACKAGE VERSION: 2.12.20
+RECIPE NAME: gnutls
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libgpg-error0
+PACKAGE VERSION: 1.10
+RECIPE NAME: libgpg-error
+LICENSE: GPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgstapp-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstaudio-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstbasecamerabinsrc-0.10-23
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgstbasevideo-0.10-23
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgstcdda-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstcodecparsers-0.10-23
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgstfft-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstinterfaces-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstnetbuffer-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstpbutils-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstphotography-0.10-23
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgstriff-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstrtp-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstrtsp-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstsdp-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstsignalprocessor-0.10-23
+PACKAGE VERSION: 0.10.23
+RECIPE NAME: gst-plugins-bad
+LICENSE: GPLv2+ LGPLv2+ LGPLv2.1+
+
+PACKAGE NAME: libgsttag-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgstvideo-0.10-0
+PACKAGE VERSION: 0.10.36
+RECIPE NAME: gst-plugins-base
+LICENSE: GPLv2+ LGPLv2+
+
+PACKAGE NAME: libgudev-1.0-0
+PACKAGE VERSION: 164
+RECIPE NAME: udev
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libical
+PACKAGE VERSION: 0.48
+RECIPE NAME: libical
+LICENSE: LGPLv2.1 MPL-1
+
+PACKAGE NAME: libjpeg8
+PACKAGE VERSION: 8d+1.2.1
+RECIPE NAME: libjpeg-turbo
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: libjson0
+PACKAGE VERSION: 0.9
+RECIPE NAME: libjson
+LICENSE: MIT
+
+PACKAGE NAME: libkmod2
+PACKAGE VERSION: 9
+RECIPE NAME: kmod
+LICENSE: LGPL-2.1+
+
+PACKAGE NAME: libltdl7
+PACKAGE VERSION: 2.4.2
+RECIPE NAME: libtool
+LICENSE: GPLv2 LGPLv2.1
+
+PACKAGE NAME: liblzo2-2
+PACKAGE VERSION: 2.06
+RECIPE NAME: lzo
+LICENSE: GPLv2+
+
+PACKAGE NAME: libmenuw5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libmysqlclient16
+PACKAGE VERSION: 5.1.40
+RECIPE NAME: mysql5
+LICENSE: GPLv2
+
+PACKAGE NAME: libncurses5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libncursesw5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libneon27
+PACKAGE VERSION: 0.29.6
+RECIPE NAME: neon
+LICENSE: LGPLv2+
+
+PACKAGE NAME: libnl-genl2
+PACKAGE VERSION: 2.0
+RECIPE NAME: libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libnl-nf2
+PACKAGE VERSION: 2.0
+RECIPE NAME: libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libnl-route2
+PACKAGE VERSION: 2.0
+RECIPE NAME: libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libnl2
+PACKAGE VERSION: 2.0
+RECIPE NAME: libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libogg0
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libogg
+LICENSE: BSD
+
+PACKAGE NAME: libopenobex1
+PACKAGE VERSION: 1.5
+RECIPE NAME: openobex
+LICENSE: GPLv2 LGPLv2.1
+
+PACKAGE NAME: libopkg1
+PACKAGE VERSION: 0.1.8+svnr633
+RECIPE NAME: opkg
+LICENSE: GPLv2+
+
+PACKAGE NAME: liborc-0.4-0
+PACKAGE VERSION: 0.4.16
+RECIPE NAME: orc
+LICENSE:
+
+PACKAGE NAME: libpam
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: libpam-runtime
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: libpanelw5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libpcap1
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpcap
+LICENSE: BSD
+
+PACKAGE NAME: libpcre
+PACKAGE VERSION: 8.31
+RECIPE NAME: libpcre
+LICENSE: BSD
+
+PACKAGE NAME: libpcreposix0
+PACKAGE VERSION: 8.31
+RECIPE NAME: libpcre
+LICENSE: BSD
+
+PACKAGE NAME: libphonone4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libpixman-1-0
+PACKAGE VERSION: 0.27.2
+RECIPE NAME: pixman
+LICENSE: MIT MIT-style PD
+
+PACKAGE NAME: libpng12-0
+PACKAGE VERSION: 1.2.49
+RECIPE NAME: libpng
+LICENSE: Libpng
+
+PACKAGE NAME: libpopt0
+PACKAGE VERSION: 1.16
+RECIPE NAME: popt
+LICENSE: MIT
+
+PACKAGE NAME: libpostproc52
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libproxy
+PACKAGE VERSION: 0.4.7
+RECIPE NAME: libproxy
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libpulse-mainloop-glib0
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: libpulse0
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: libpulsecore
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: libpvrqwswsegl1
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqt3supporte4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtclucenee4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtcoree4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtdbuse4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtdeclarativee4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtdesignercomponentse4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtdesignere4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtguie4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqthelpe4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtmultimediae4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtnetworke4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtopengle4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtscripte4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtscripttoolse4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtsqle4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtsvge4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtteste4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtwebkite4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtxmle4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libqtxmlpatternse4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libreadline5
+PACKAGE VERSION: 5.2
+RECIPE NAME: readline
+LICENSE: GPLv2+
+
+PACKAGE NAME: libsamplerate0
+PACKAGE VERSION: 0.1.8
+RECIPE NAME: libsamplerate0
+LICENSE: GPLv2+
+
+PACKAGE NAME: libsdl-1.2-0
+PACKAGE VERSION: 1.2.15
+RECIPE NAME: libsdl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsndfile1
+PACKAGE VERSION: 1.0.25
+RECIPE NAME: libsndfile1
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsocketcan2
+PACKAGE VERSION: 0.0.8
+RECIPE NAME: libsocketcan
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsoup-2.4
+PACKAGE VERSION: 2.38.1
+RECIPE NAME: libsoup-2.4
+LICENSE: LGPLv2
+
+PACKAGE NAME: libsqlite3-0
+PACKAGE VERSION: 3.7.13
+RECIPE NAME: sqlite3
+LICENSE: PD
+
+PACKAGE NAME: libss2
+PACKAGE VERSION: 1.42.1
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 LGPLv2 BSD MIT
+
+PACKAGE NAME: libssl1.0.0
+PACKAGE VERSION: 1.0.0j
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libstdc++6
+PACKAGE VERSION: 2013.03
+RECIPE NAME: external-linaro-toolchain
+LICENSE: MIT
+
+PACKAGE NAME: libswscale2
+PACKAGE VERSION: 0.8.3+git1+2fb4be9a99a2c2a9435339830e3d940171cc0d9b
+RECIPE NAME: libav
+LICENSE: GPLv2+
+
+PACKAGE NAME: libtasn1-3
+PACKAGE VERSION: 2.13
+RECIPE NAME: libtasn1
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libtheora
+PACKAGE VERSION: 1.1.1
+RECIPE NAME: libtheora
+LICENSE: BSD
+
+PACKAGE NAME: libthread-db1
+PACKAGE VERSION: 2013.03
+RECIPE NAME: external-linaro-toolchain
+LICENSE: MIT
+
+PACKAGE NAME: libtic5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libtinfo5
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: libts-1.0-0
+PACKAGE VERSION: 1.0+gitr1+e17263ef401ee885a27d649b90b577cfb44500e0
+RECIPE NAME: tslib
+LICENSE: LGPLv2
+
+PACKAGE NAME: libudev0
+PACKAGE VERSION: 164
+RECIPE NAME: udev
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libusb-0.1-4
+PACKAGE VERSION: 0.1.3
+RECIPE NAME: libusb-compat
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libusb-1.0-0
+PACKAGE VERSION: 1.0.8
+RECIPE NAME: libusb1
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libuuid1
+PACKAGE VERSION: 2.21.2
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ LGPLv2.1+ BSD
+
+PACKAGE NAME: libvorbis
+PACKAGE VERSION: 1.3.3
+RECIPE NAME: libvorbis
+LICENSE: BSD
+
+PACKAGE NAME: libvorbisidec1
+PACKAGE VERSION: 20120314
+RECIPE NAME: tremor
+LICENSE: BSD
+
+PACKAGE NAME: libxml2
+PACKAGE VERSION: 2.8.0
+RECIPE NAME: libxml2
+LICENSE: MIT
+
+PACKAGE NAME: libz1
+PACKAGE VERSION: 1.2.7
+RECIPE NAME: zlib
+LICENSE: Zlib
+
+PACKAGE NAME: lighttpd
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-access
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-accesslog
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-cgi
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-compress
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-dirlisting
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-expire
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-indexfile
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-setenv
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lighttpd-module-staticfile
+PACKAGE VERSION: 1.4.31
+RECIPE NAME: lighttpd
+LICENSE: BSD
+
+PACKAGE NAME: lmbench
+PACKAGE VERSION: 3.0-a9
+RECIPE NAME: lmbench
+LICENSE: GPLv2
+
+PACKAGE NAME: ltp-ddt-legacy
+PACKAGE VERSION: 1.0
+RECIPE NAME: ltp-ddt-legacy
+LICENSE: GPLv2
+
+PACKAGE NAME: ltrace
+PACKAGE VERSION: 0.5.3
+RECIPE NAME: ltrace
+LICENSE: GPLv2
+
+PACKAGE NAME: matrix-3d-demo-chameleon
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-3d-demos
+LICENSE:
+
+PACKAGE NAME: matrix-3d-demo-film
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-3d-demos
+LICENSE:
+
+PACKAGE NAME: matrix-3d-demo-lantern
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-3d-demos
+LICENSE:
+
+PACKAGE NAME: matrix-3d-demo-skull
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-3d-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui
+LICENSE: BSD MIT
+
+PACKAGE NAME: matrix-gui-apps-images
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-apps-images
+LICENSE:
+
+PACKAGE NAME: matrix-gui-apps-quick-playground
+PACKAGE VERSION: 1.0
+RECIPE NAME: quick-playground
+LICENSE: Nokia
+
+PACKAGE NAME: matrix-gui-armbenchmarks-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-armbenchmarks-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-bluetooth-demos
+PACKAGE VERSION: 1.0
+RECIPE NAME: bluetooth-gui
+LICENSE: BSD
+
+PACKAGE NAME: matrix-gui-browser
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-browser
+LICENSE: BSD
+
+PACKAGE NAME: matrix-gui-camera-loopback
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-camera-loopback
+LICENSE:
+
+PACKAGE NAME: matrix-gui-clocks
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-clocks
+LICENSE:
+
+PACKAGE NAME: matrix-gui-crypto-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-crypto-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-display-control
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-display-control
+LICENSE:
+
+PACKAGE NAME: matrix-gui-generic-pm
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-generic-pm
+LICENSE:
+
+PACKAGE NAME: matrix-gui-oprofile-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-oprofile-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-pm-demos-count
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-pm-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-pm-demos-dump-reg
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-pm-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-pm-demos-snapshot1
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-pm-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-pm-demos-snapshot2
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-pm-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-pm-demos-suspend
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-pm-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-qt4-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-qt4-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-settings-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-settings-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-3d
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-arm
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-cryptos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-display
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-ethernet
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-multimedia
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-oprofile
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-power
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-qt4
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-settings
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-usb
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-submenus-wifi
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-submenus
+LICENSE:
+
+PACKAGE NAME: matrix-gui-thermostat-demo
+PACKAGE VERSION: 2.0
+RECIPE NAME: qt-tstat
+LICENSE: BSD CC-BY-SA-2.0 CC-BY-SA-3.0 MIT
+
+PACKAGE NAME: matrix-gui-usb-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-usb-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-v4l2-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-v4l2-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-wifi-battleship-demo
+PACKAGE VERSION: git
+RECIPE NAME: battleship
+LICENSE: GPLv2
+
+PACKAGE NAME: matrix-gui-wifi-demos
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-wifi-demos
+LICENSE:
+
+PACKAGE NAME: matrix-gui-wifi-direct-demo
+PACKAGE VERSION: git
+RECIPE NAME: wifi-direct-demo
+LICENSE: GPLv2
+
+PACKAGE NAME: matrix-lighttpd-config
+PACKAGE VERSION: 1.0
+RECIPE NAME: matrix-lighttpd-config
+LICENSE: BSD
+
+PACKAGE NAME: matrix-multimedia-demo-aac
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-multimedia-demos
+LICENSE:
+
+PACKAGE NAME: matrix-multimedia-demo-audiocapture
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-multimedia-demos
+LICENSE:
+
+PACKAGE NAME: matrix-multimedia-demo-h264dec
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-multimedia-demos
+LICENSE:
+
+PACKAGE NAME: matrix-multimedia-demo-mpeg4aacdec
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-multimedia-demos
+LICENSE:
+
+PACKAGE NAME: matrix-multimedia-demo-mpeg4dec
+PACKAGE VERSION: 2.0
+RECIPE NAME: matrix-gui-multimedia-demos
+LICENSE:
+
+PACKAGE NAME: modutils-initscripts
+PACKAGE VERSION: 1.0
+RECIPE NAME: modutils-initscripts
+LICENSE: PD
+
+PACKAGE NAME: mount-sdcard
+PACKAGE VERSION: 1.0
+RECIPE NAME: mount-sdcard
+LICENSE: MIT
+
+PACKAGE NAME: mtd-utils
+PACKAGE VERSION: 1.5.0
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: nbench-byte
+PACKAGE VERSION: 2.2.3
+RECIPE NAME: nbench-byte
+LICENSE:
+
+PACKAGE NAME: ncurses
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-tools
+PACKAGE VERSION: 5.9
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: netbase
+PACKAGE VERSION: 5.0
+RECIPE NAME: netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: netperf
+PACKAGE VERSION: 2.4.4
+RECIPE NAME: netperf
+LICENSE: GPLv2+
+
+PACKAGE NAME: nfs-utils-client
+PACKAGE VERSION: 1.2.3
+RECIPE NAME: nfs-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: obex-client
+PACKAGE VERSION: 0.34
+RECIPE NAME: obexd
+LICENSE: GPLv2
+
+PACKAGE NAME: obexd
+PACKAGE VERSION: 0.34
+RECIPE NAME: obexd
+LICENSE: GPLv2
+
+PACKAGE NAME: obexftp
+PACKAGE VERSION: 0.23
+RECIPE NAME: obexftp
+LICENSE: GPLv2
+
+PACKAGE NAME: omap3-sgx-modules
+PACKAGE VERSION: 4.09.00.01
+RECIPE NAME: omap3-sgx-modules
+LICENSE: GPLv2
+
+PACKAGE NAME: openobex-apps
+PACKAGE VERSION: 1.5
+RECIPE NAME: openobex
+LICENSE: GPLv2 LGPLv2.1
+
+PACKAGE NAME: openssh-sftp-server
+PACKAGE VERSION: 6.0p1
+RECIPE NAME: openssh
+LICENSE: BSD
+
+PACKAGE NAME: openssl
+PACKAGE VERSION: 1.0.0j
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: openssl-misc
+PACKAGE VERSION: 1.0.0j
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: opkg
+PACKAGE VERSION: 0.1.8+svnr633
+RECIPE NAME: opkg
+LICENSE: GPLv2+
+
+PACKAGE NAME: opkg-collateral
+PACKAGE VERSION: 1.0
+RECIPE NAME: opkg-collateral
+LICENSE: MIT
+
+PACKAGE NAME: opkg-config-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: opkg-config-base
+LICENSE: MIT
+
+PACKAGE NAME: oppserver
+PACKAGE VERSION: 1.0
+RECIPE NAME: oppserver
+LICENSE: BSD
+
+PACKAGE NAME: oprofile
+PACKAGE VERSION: 0.9.7
+RECIPE NAME: oprofile
+LICENSE: LGPLv2.1+ GPLv2
+
+PACKAGE NAME: oprofile-example
+PACKAGE VERSION: git
+RECIPE NAME: oprofile-example
+LICENSE: BSD
+
+PACKAGE NAME: packagegroup-arago-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-base
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-base-tisdk
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-base-tisdk
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-console
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-console
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-gst
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-gst
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-qte
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-qte
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-test
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-test
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-addons
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-addons
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-amsdk
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-amsdk
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-connectivity
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-connectivity
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-crypto
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-crypto
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-graphics
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-graphics
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-matrix
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-matrix
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-multimedia
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-multimedia
+LICENSE:
+
+PACKAGE NAME: packagegroup-arago-tisdk-qte
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-arago-tisdk-qte
+LICENSE:
+
+PACKAGE NAME: packagegroup-core-boot
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-boot
+LICENSE:
+
+PACKAGE NAME: pam-plugin-deny
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: pam-plugin-permit
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: pam-plugin-unix
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: pam-plugin-warn
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: libpam
+LICENSE: GPLv2+ BSD
+
+PACKAGE NAME: pciutils-ids
+PACKAGE VERSION: 3.1.10
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: php
+PACKAGE VERSION: 5.3.19
+RECIPE NAME: php
+LICENSE: PHP-3.0
+
+PACKAGE NAME: php-cgi
+PACKAGE VERSION: 5.3.19
+RECIPE NAME: php
+LICENSE: PHP-3.0
+
+PACKAGE NAME: php-cli
+PACKAGE VERSION: 5.3.19
+RECIPE NAME: php
+LICENSE: PHP-3.0
+
+PACKAGE NAME: pointercal
+PACKAGE VERSION: 0.0
+RECIPE NAME: pointercal
+LICENSE: MIT
+
+PACKAGE NAME: psplash
+PACKAGE VERSION: 0.1+git1+de9979aefbc56af59b4d236a4b63dd19dcdcfb53
+RECIPE NAME: psplash
+LICENSE: GPLv2+
+
+PACKAGE NAME: psplash-default
+PACKAGE VERSION: 0.1+git1+de9979aefbc56af59b4d236a4b63dd19dcdcfb53
+RECIPE NAME: psplash
+LICENSE: GPLv2+
+
+PACKAGE NAME: pulseaudio
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-lib-alsa-util
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-lib-bluetooth-ipc
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-lib-bluetooth-sbc
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-lib-bluetooth-util
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-lib-protocol-native
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-alsa-card
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-alsa-sink
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-alsa-source
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-always-sink
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-augment-properties
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-bluetooth-device
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-bluetooth-discover
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-card-restore
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-default-device-restore
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-detect
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-device-restore
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-filter-apply
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-filter-heuristics
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-intended-roles
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-loopback
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-native-protocol-unix
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-null-sink
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-position-event-sounds
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-rescue-streams
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-role-cork
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-stream-restore
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-suspend-on-idle
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-module-udev-detect
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: pulseaudio-server
+PACKAGE VERSION: 2.1
+RECIPE NAME: pulseaudio
+LICENSE: GPLv2+ LGPLv2.1
+
+PACKAGE NAME: qt-tstat
+PACKAGE VERSION: 2.0
+RECIPE NAME: qt-tstat
+LICENSE: BSD CC-BY-SA-2.0 CC-BY-SA-3.0 MIT
+
+PACKAGE NAME: qt4-embedded-assistant
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-dbus
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-demos
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-demos-doc
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-designer
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-examples
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts-pfa
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts-pfb
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts-qpf
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts-ttf-dejavu
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-fonts-ttf-vera
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-gles
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-gles-conf
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-linguist
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-makeqpf
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-mkspecs
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-pixeltool
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-gfxdriver-gfxpvregl
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-gfxdriver-gfxtransformed
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-imageformat-gif
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-imageformat-jpeg
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-mousedriver-tslib
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-phonon-backend-gstreamer
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-plugin-sqldriver-sqlite
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-qml-plugins
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-qmlviewer
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-qt3to4
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-tools
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: qt4-embedded-xmlpatterns
+PACKAGE VERSION: 4.8.3
+RECIPE NAME: qt4-embedded-gles
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: quick-playground
+PACKAGE VERSION: 1.0
+RECIPE NAME: quick-playground
+LICENSE: Nokia
+
+PACKAGE NAME: refresh-screen
+PACKAGE VERSION: 2.0
+RECIPE NAME: refresh-screen
+LICENSE: BSD
+
+PACKAGE NAME: rt-tests
+PACKAGE VERSION: 0.84
+RECIPE NAME: rt-tests
+LICENSE: GPLv2 GPLv2+
+
+PACKAGE NAME: run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: screenshot
+PACKAGE VERSION: 1.0
+RECIPE NAME: screenshot
+LICENSE: BSD
+
+PACKAGE NAME: shadow
+PACKAGE VERSION: 4.1.4.3
+RECIPE NAME: shadow
+LICENSE: BSD Artistic-1.0
+
+PACKAGE NAME: shadow-securetty
+PACKAGE VERSION: 4.1.4.3
+RECIPE NAME: shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: softap-udhcpd-config
+PACKAGE VERSION: 1.0
+RECIPE NAME: softap-udhcpd-config
+LICENSE: GPLv2 BSD-4-Clause
+
+PACKAGE NAME: speex
+PACKAGE VERSION: 1.2rc1
+RECIPE NAME: speex
+LICENSE: BSD
+
+PACKAGE NAME: strace
+PACKAGE VERSION: 4.7
+RECIPE NAME: strace
+LICENSE: BSD
+
+PACKAGE NAME: sysvinit
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit
+LICENSE: GPLv2+
+
+PACKAGE NAME: sysvinit-inittab
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit-inittab
+LICENSE: GPLv2
+
+PACKAGE NAME: sysvinit-pidof
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit
+LICENSE: GPLv2+
+
+PACKAGE NAME: tcpdump
+PACKAGE VERSION: 4.1.1
+RECIPE NAME: tcpdump
+LICENSE: BSD
+
+PACKAGE NAME: thttpd
+PACKAGE VERSION: 2.25b
+RECIPE NAME: thttpd
+LICENSE: BSD
+
+PACKAGE NAME: ti-compat-bluetooth
+PACKAGE VERSION: r5.sp3.05
+RECIPE NAME: ti-compat-bluetooth
+LICENSE: GPLv2
+
+PACKAGE NAME: ti-compat-wireless-wl12xx
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: ti-compat-wireless-wl12xx
+LICENSE: GPLv2
+
+PACKAGE NAME: ti-ocf-crypto-module
+PACKAGE VERSION: 1.0
+RECIPE NAME: ti-ocf-crypto-module
+LICENSE: BSD GPLv2
+
+PACKAGE NAME: ti-wifi-utils
+PACKAGE VERSION: r5.sp3.05
+RECIPE NAME: ti-wifi-utils
+LICENSE: BSD
+
+PACKAGE NAME: tinylogin
+PACKAGE VERSION: 1.4
+RECIPE NAME: tinylogin
+LICENSE: GPLv2
+
+PACKAGE NAME: trace-cmd
+PACKAGE VERSION: 1.2+git1+7055ffd37beeb44714e86a4abc703f7e175a0db5
+RECIPE NAME: trace-cmd
+LICENSE: GPLv2 LGPLv2.1
+
+PACKAGE NAME: tslib-calibrate
+PACKAGE VERSION: 1.0+gitr1+e17263ef401ee885a27d649b90b577cfb44500e0
+RECIPE NAME: tslib
+LICENSE: LGPLv2
+
+PACKAGE NAME: tslib-conf
+PACKAGE VERSION: 1.0+gitr1+e17263ef401ee885a27d649b90b577cfb44500e0
+RECIPE NAME: tslib
+LICENSE: LGPLv2
+
+PACKAGE NAME: tslib-tests
+PACKAGE VERSION: 1.0+gitr1+e17263ef401ee885a27d649b90b577cfb44500e0
+RECIPE NAME: tslib
+LICENSE: LGPLv2
+
+PACKAGE NAME: u-boot
+PACKAGE VERSION: 2012.04.01
+RECIPE NAME: u-boot-am37x
+LICENSE: GPLv2+
+
+PACKAGE NAME: udev
+PACKAGE VERSION: 164
+RECIPE NAME: udev
+LICENSE: GPLv2.0+
+
+PACKAGE NAME: udev-extraconf
+PACKAGE VERSION: 1.0
+RECIPE NAME: udev-extraconf
+LICENSE: MIT
+
+PACKAGE NAME: udev-utils
+PACKAGE VERSION: 164
+RECIPE NAME: udev
+LICENSE: GPLv2.0+ LGPLv2.1+
+
+PACKAGE NAME: update-alternatives-cworth
+PACKAGE VERSION: 0.1.8+svnr633
+RECIPE NAME: opkg
+LICENSE: GPLv2+
+
+PACKAGE NAME: update-modules
+PACKAGE VERSION: 1.0
+RECIPE NAME: update-modules
+LICENSE: GPLv2
+
+PACKAGE NAME: update-rc.d
+PACKAGE VERSION: 0.7
+RECIPE NAME: update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: usbutils
+PACKAGE VERSION: 006
+RECIPE NAME: usbutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: usbutils-ids
+PACKAGE VERSION: 006
+RECIPE NAME: usbutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: ussp-push
+PACKAGE VERSION: 0.11
+RECIPE NAME: ussp-push
+LICENSE: GPLv2
+
+PACKAGE NAME: util-linux-fdisk
+PACKAGE VERSION: 2.21.2
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ LGPLv2.1+ BSD
+
+PACKAGE NAME: wifi-direct-demo
+PACKAGE VERSION: git
+RECIPE NAME: wifi-direct-demo
+LICENSE: GPLv2
+
+PACKAGE NAME: wifi-direct-launcher
+PACKAGE VERSION: 1.0
+RECIPE NAME: wifi-direct-launcher
+LICENSE: MIT
+
+PACKAGE NAME: wireless-tools
+PACKAGE VERSION: 29
+RECIPE NAME: wireless-tools
+LICENSE: GPLv2 LGPLv2.1 MPL-1.1 BSD
+
+PACKAGE NAME: wl1271-demo
+PACKAGE VERSION: git
+RECIPE NAME: wl1271-demo
+LICENSE: BSD
+
+PACKAGE NAME: wl12xx-firmware
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: wl12xx-firmware
+LICENSE:
+
+PACKAGE NAME: wpa-gui-e
+PACKAGE VERSION: 0.7.3+0.8.0-rc
+RECIPE NAME: wpa-gui-e
+LICENSE: GPLv2 BSD
+
+PACKAGE NAME: wpa-supplicant
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: wpa-supplicant
+LICENSE: GPLv2 BSD
+
+PACKAGE NAME: wpa-supplicant-cli
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: wpa-supplicant
+LICENSE: GPLv2 BSD
+
+PACKAGE NAME: wpa-supplicant-passphrase
+PACKAGE VERSION: r5.sp4.01
+RECIPE NAME: wpa-supplicant
+LICENSE: GPLv2 BSD
+
